@@ -7,7 +7,7 @@ body {
 
         
  header {
-        background-color: #ececec;
+        background-color: #fcfcfc;
         padding: 1rem 0;
         }
 
@@ -31,9 +31,9 @@ body {
 
         .dropbtn {
             font-size: 16px;
-            color: rgb(244, 231, 90);
+            color: #e085c0;
             padding: 14px 20px;
-            background-color: #a600ff;
+            background-color: #f4f4f4;
             border: none;
             cursor: pointer;
         }
@@ -41,22 +41,22 @@ body {
         .dropdown-content {
             display: none;
             position: absolute;
-            background-color: #004cff;
+            background-color: #f4f4f4;
             min-width: 160px;
             z-index: 1;
             box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
         }
 
         .dropdown-content a {
-            color: rgb(74, 11, 62);
+            color: #cb79ae;
             padding: 12px 16px;
             text-decoration: none;
             display: block;
         }
 
         .dropdown-content a:hover {
-            background-color: #460505;
-            color: rgb(17, 164, 149);
+            background-color: #f4f4f4;
+            color: rgb(19, 179, 176);
         }
 
         
