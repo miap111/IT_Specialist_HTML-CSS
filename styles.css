@@ -19,7 +19,7 @@ body {
         }
 
         nav a {
-            color: rgb(255, 255, 255);
+            color: rgb(255, 230, 0);
             text-decoration: none;
             padding: 14px 20px;
             text-align: center;
@@ -33,7 +33,7 @@ body {
             font-size: 16px;
             color: #e085c0;
             padding: 14px 20px;
-            background-color: #fcfcfc;
+            background-color: #ff0000;
             border: none;
             cursor: pointer;
         }
@@ -41,7 +41,7 @@ body {
         .dropdown-content {
             display: none;
             position: absolute;
-            background-color: #fcfcfc;
+            background-color: #00ffcc;
             min-width: 160px;
             z-index: 1;
             box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
@@ -55,7 +55,7 @@ body {
         }
 
         .dropdown-content a:hover {
-            background-color: #f4f4f4;
+            background-color: #1100ff;
             color: rgb(19, 179, 176);
         }
 
